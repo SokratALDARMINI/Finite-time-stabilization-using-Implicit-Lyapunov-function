@@ -1,3 +1,4 @@
+# Finite time stabilization using Implicit Lyapunov function
 This Matlab program is built to investigate finite time controller design using implicit Lyapunov function approach. The theory behind the work can be found in the following articles:
 
 1-Polyakov, Andrey, Denis Efimov, and Wilfrid Perruquetti. "Finite-time and fixed-time stabilization: Implicit Lyapunov function approach." Automatica 51 (2015): 332-340).
